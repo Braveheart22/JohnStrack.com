@@ -1,0 +1,514 @@
+# Webalizer V2.23-08 Incremental Data - 02/12/2018 18:36:40
+2018 2 12 18 36 40
+288 217 56 70 27 14 57888 108 44 0
+2 101 101 1 12
+16 14 3216 8 2 2
+48 32 9648 8 23 6
+5 5 1005 1 0 0
+22 14 4422 10 11 6
+5 2 1005 5 2 2
+22 18 4422 10 9 7
+16 10 3216 9 7 7
+22 20 4422 8 3 3
+20 15 4020 7 13 6
+1 1 201 1 1 1
+10 2 2010 3 2 2
+101 84 20301 2 35 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+8 6 1608 1
+11 8 2211 9
+6 3 1206 5
+4 2 804 2
+11 10 2211 1
+7 5 1407 3
+11 7 2211 9
+0 0 0 0
+2 2 402 0
+2 0 402 0
+7 7 1407 1
+2 1 402 2
+6 4 1206 4
+24 17 4824 2
+11 6 2211 2
+2 1 402 2
+2 1 402 2
+3 1 603 0
+104 87 20904 37
+7 6 1407 2
+39 29 7839 19
+7 4 1407 5
+0 0 0 0
+12 10 2412 0
+0
+0
+0
+217
+0
+0
+0
+0
+0
+6
+0
+10
+1
+0
+0
+0
+0
+0
+0
+0
+0
+45
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+0
+# -urls- 
+/nunzio/
+0 1 0 201 0 0
+/wordpress/
+0 13 0 2613 5 0
+/nunzio/images/nunzio+logo+gradient.png
+1 1 0 201 0 0
+/nunzio/css/modern-business.css
+0 1 0 201 0 0
+/pat/clients.php
+0 2 0 402 0 0
+/wordpress/wp-includes/js/comment-reply.min.js
+0 2 0 402 0 0
+/img/artwork_1.png
+1 1 0 201 0 0
+/pat/
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/js_composer/assets/css/js_composer.min.css
+0 1 0 201 0 0
+/img/artwork_7.png
+1 1 0 201 0 0
+/img/artwork_4.png
+1 1 0 201 0 0
+/font-awesome/fonts/fontawesome-webfont.woff
+0 2 0 402 0 0
+/img/banner-bg.jpg
+1 13 0 2613 0 0
+/nunzio/images/Slider-3.jpg
+1 1 0 201 0 0
+/js/bootstrap.min.js
+0 5 0 1005 0 0
+/js/jquery.js
+0 6 0 1206 0 0
+/wordpress/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/jetpack/css/jetpack.css
+0 1 0 201 0 0
+/wordpress/readme.html
+0 1 0 201 0 0
+/img/artwork_6.png
+1 1 0 201 0 0
+/nunzio/font-awesome/fonts/fontawesome-webfont.woff
+0 1 0 201 0 0
+/css/landing-page.css
+0 4 0 804 0 0
+/wordpress/wp-includes/js/jquery/jquery-migrate.min.js
+0 2 0 402 0 0
+/wordpress/wp-content/plugins/jetpack/modules/wpgroho.js
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/jetpack/modules/photon/photon.js
+0 1 0 201 0 0
+/nunzio/favicon.ico
+0 1 0 201 0 0
+/wordpress/wp-cron.php
+0 1 0 201 2 2
+/font-awesome/css/font-awesome.min.css
+0 4 0 804 0 0
+/pat/logout.php
+0 1 0 201 0 0
+/img/intro-bg.jpg
+1 18 0 3618 0 0
+/font-awesome/fonts/fontawesome-webfont.ttf
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/js_composer/changes.txt
+0 1 0 201 0 0
+/img/favicon.ico
+0 2 0 402 0 0
+/pat/edit.php
+0 2 0 402 0 0
+/css/style.css
+0 2 0 402 0 0
+/nunzio/css/nunzio.css
+0 1 0 201 0 0
+/js/main.js
+0 2 0 402 0 0
+/wordpress/wp-content/plugins/revslider/public/assets/css/settings.css
+0 1 0 201 0 0
+/wordpress/wp-content/themes/x/framework/fonts/font_awesome/fontawesome-webfont.woff2
+0 1 0 201 0 0
+/css/bootstrap.min.css
+0 4 0 804 0 0
+/nunzio/js/jquery.js
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/x-shortcodes/js/dist/site/x-shortcodes-head.min.js
+0 1 0 201 0 0
+/nunzio/images/Slider-2.jpg
+1 1 0 201 0 0
+/wordpress/wp-includes/js/wp-embed.min.js
+0 2 0 402 0 0
+/img/dog.png
+1 17 0 3417 0 0
+/nunzio/images/Slider-1.jpg
+1 1 0 201 0 0
+/wordpress/wp-includes/js/wp-emoji-release.min.js
+0 2 0 402 0 0
+/wordpress/wp-includes/js/jquery/jquery.js
+0 2 0 402 0 0
+/pat/locations.php
+0 3 0 603 0 0
+/nunzio/js/bootstrap.min.js
+0 1 0 201 0 0
+/img/artwork_5.png
+1 1 0 201 0 0
+/img/wholeheartedbadge.jpg
+1 13 0 2613 0 0
+/pat/stationMaint.php
+0 1 0 201 0 0
+/
+0 31 0 6231 24 6
+/php.html
+0 4 0 804 1 0
+/php.php
+0 4 0 804 0 0
+/wordpress/wp-content/themes/x/framework/js/dist/site/x-head.min.js
+0 1 0 201 0 0
+/wordpress/wp-content/themes/x/framework/css/dist/site/stacks/renew.css
+0 1 0 201 0 0
+/nunzio/css/bootstrap.min.css
+0 1 0 201 0 0
+/pat/userMaint.php
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+0 1 0 201 0 0
+/img/phones.png
+1 15 0 3015 0 0
+/font-awesome/fonts/fontawesome-webfont.svg
+0 1 0 201 0 0
+/img/artwork_2.png
+1 1 0 201 0 0
+/wordpress/xmlrpc.php
+0 2 0 402 1 0
+/pat/history.php
+0 3 0 603 0 0
+/wordpress/wp-content/themes/x/framework/js/dist/site/x-body.min.js
+0 1 0 201 0 0
+/nunzio/font-awesome/css/font-awesome.min.css
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/x-shortcodes/js/dist/site/x-shortcodes-body.min.js
+0 1 0 201 0 0
+/wordpress/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js
+0 1 0 201 0 0
+# End Of Table - urls
+# -sites- (monthly)
+86.110.118.3
+0 3 2 603 1 1518144228
+-
+185.198.58.115
+0 1 0 201 0 0
+-
+192.0.91.149
+0 3 2 603 1 1517893431
+/wordpress/xmlrpc.php
+68.149.112.105
+0 5 5 1005 0 0
+-
+157.55.39.40
+0 2 2 402 0 0
+-
+180.76.15.24
+0 1 1 201 1 1518031040
+/wordpress/
+49.36.1.189
+0 5 5 1005 0 0
+-
+77.88.5.13
+0 1 1 201 1 1517921345
+/
+180.76.15.14
+0 1 1 201 1 1518038854
+/wordpress/
+180.76.15.22
+0 1 1 201 1 1517916845
+/
+207.46.13.170
+0 2 2 402 0 0
+-
+91.177.76.167
+0 5 5 1005 0 0
+-
+180.76.15.23
+0 2 1 402 0 0
+-
+128.72.21.156
+0 1 1 201 0 0
+-
+192.0.102.43
+0 1 1 201 1 1517725154
+/wordpress/xmlrpc.php
+180.76.15.151
+0 1 1 201 1 1517535242
+/
+195.22.127.249
+0 4 0 804 0 0
+-
+173.211.126.171
+0 1 1 201 1 1518000806
+/
+94.180.127.37
+0 3 3 603 0 0
+-
+184.154.36.167
+0 30 24 6030 1 1517603083
+/wordpress/readme.html
+84.201.133.26
+0 1 1 201 1 1517921354
+/
+94.23.83.80
+0 1 1 201 1 1517520310
+/
+180.76.15.27
+0 1 1 201 1 1518053584
+/php.html
+188.166.11.159
+0 6 4 1206 1 1518141405
+/
+157.55.39.2
+0 1 0 201 0 0
+-
+38.142.192.42
+0 1 1 201 1 1518200595
+/
+190.146.63.127
+0 9 9 1809 0 0
+-
+180.76.15.154
+0 2 2 402 1 1517839958
+/
+195.88.16.176
+0 1 1 201 0 0
+-
+66.96.128.60
+0 9 1 1809 7 1518459944
+/wordpress/wp-cron.php
+93.158.161.43
+0 8 4 1608 4 1518318451
+/
+69.58.178.57
+0 7 4 1407 1 1517725088
+/php.html
+157.55.39.61
+0 1 1 201 0 0
+-
+13.56.229.65
+0 1 1 201 1 1518055458
+/
+207.46.13.43
+0 1 0 201 0 0
+-
+76.64.216.206
+0 5 5 1005 0 0
+-
+77.88.47.68
+0 10 4 2010 4 1518318440
+/
+180.76.15.155
+0 1 0 201 0 0
+-
+100.36.53.40
+0 5 5 1005 0 0
+-
+71.101.204.130
+0 5 5 1005 0 0
+-
+173.44.55.155
+0 5 5 1005 0 0
+-
+180.76.15.147
+0 1 1 201 1 1518192006
+/wordpress/
+193.70.34.209
+0 1 0 201 1 1517806571
+-
+91.200.12.21
+0 1 0 201 0 0
+-
+180.76.15.17
+0 1 1 201 1 1518243901
+/wordpress/
+178.92.188.47
+0 5 5 1005 0 0
+-
+180.76.15.33
+0 1 1 201 1 1518102142
+/
+82.118.242.19
+0 2 0 402 0 0
+-
+34.217.108.16
+0 1 1 201 1 1517767958
+/
+65.51.79.132
+0 100 84 20100 1 1518460598
+/
+180.76.15.135
+0 1 1 201 0 0
+-
+181.168.50.194
+0 5 5 1005 0 0
+-
+157.55.39.41
+0 3 3 603 1 1517444986
+/
+180.76.15.15
+0 1 0 201 0 0
+-
+24.112.24.62
+0 7 7 1407 0 0
+-
+193.106.30.99
+0 4 0 804 4 1518018289
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.96.128.60
+0 1 0 201 1 1518459944
+/wordpress/wp-cron.php
+65.51.79.132
+0 100 84 20100 1 1518460598
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.johnstrack.com/wordpress
+1 1
+http://www.google.com/url
+1 14
+http://www.johnstrack.com/wp-content/themes/atom/style.css
+1 1
+http://www.johnstrack.com/pat/history.php
+1 3
+http://www.johnstrack.com/wordpress/wp-cron.php
+1 9
+http://www.johnstrack.com/nunzio/font-awesome/css/font-awesome.min.css
+1 1
+http://www.johnstrack.com/pat/edit.php
+1 2
+http://www.johnstrack.com/pat/logout.php
+1 1
+http://www.johnstrack.com/nunzio/
+1 10
+http://www.johnstrack.com/wordpress/wp-content/themes/x/framework/css/dist/site/stacks/renew.css
+1 1
+http://www.johnstrack.com/pat/
+1 2
+http://johnstrack.com/css/landing-page.css
+1 2
+http://www.johnstrack.com/pat/userMaint.php
+1 1
+- (Direct Request)
+0 174
+http://johnstrack.com/
+1 13
+http://johnstrack.com/font-awesome/css/font-awesome.min.css
+1 1
+http://www.johnstrack.com/css/landing-page.css
+1 2
+http://www.johnstrack.com/wordpress/xmlrpc.php
+1 2
+http://lk.expertrating.ru/
+0 5
+http://www.johnstrack.com/pat/locations.php
+1 3
+Google
+2 15
+http://www.johnstrack.com/index.html
+1 8
+http://www.johnstrack.com/wordpress/
+1 19
+https://google.com/
+1 1
+http://www.johnstrack.com/pat/clients.php
+1 2
+http://www.johnstrack.com/font-awesome/css/font-awesome.min.css
+1 1
+http://www.johnstrack.com/pat/stationMaint.php
+1 1
+http://www.johnstrack.com/
+1 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 177
++MSIE+9.0
+0 14
+Jetpack+by+WordPress.com"
+0 2
+Netscape 6 compatible
+2 177
+Python-urllib/2.7"
+0 1
+SiteLockSpider+[en]+(WinNT;+I+;Nav)"
+0 16
+Dalvik/2.1.0+(Linux;+U;+Android+8.1.0;+Pixel+Build/OPM1.171019.016)"
+0 9
+WordPress/4.7.5;+http://www.johnstrack.com/wordpress"
+0 9
++Baiduspider/2.0
+0 12
++ips-agent)"
+0 7
++bingbot/2.0
+0 10
+WordPress.com;+http://www.johnstrack.com/wordpress"
+0 2
++YandexBot/3.0
+0 20
+}__test|O:21:"JDatabaseDriverMysqli":3:{s:2:"fc";O:17:"JSimplepieFactory":0:{}s:21:"\0\0\0disconnectHandlers";a:1:{i:0;a:2:{i
+0 2
+SafeDNSBot+(https://www.safedns.com/searchbot)"
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
